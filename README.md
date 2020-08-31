@@ -1,25 +1,24 @@
-### Hi there 👋
+# Dmitry Tavern
 
-<!--
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=doggerwork&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&hide=issues,prs,contribs" />
--->
+Frontend Developer
 
-Hi, I'm Dmitry Tavern, a frontend web developer.
+📪 dogger.work@gmail.com  
+<!-- 🌐 none -->  
 
-- 🔭 I’m currently working on my projects and freelance
-- 🌱 I’m currently learning TypeScript / Nuxt.js
+Knowledge
+-----------
 
-#### Languages
-<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/html.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/css.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/javascript.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/typescript.png"></code>
+### Languages
+HTML5 • CSS3/SASS • JavaScript (ES6) • TypeScript
 
-#### Tools
-<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/webpack.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/rollup.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/gulp.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/nodejs.svg"></code>
+### Application Proficiency
+WebStorm • PhpStorm • Sublime Text • Figma
 
-#### Frameworks
-<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/vue.png"></code>
+### Bundlers
+Webpack • Rollup • Gulp
+
+### Frameworks
+Vue
+
+### Libraries
+Bootstrap Grid • jQuery
