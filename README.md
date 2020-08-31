@@ -10,7 +10,16 @@ Hi, I'm Dmitry Tavern, a frontend web developer.
 - 🌱 I’m currently learning TypeScript / Nuxt.js
 
 #### Languages
-<code><img height="25" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/css.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/html.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/css.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/javascript.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/typescript.png"></code>
+
+#### Tools
+<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/webpack.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/rollup.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/gulp.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/nodejs.svg"></code>
+
+#### Frameworks
+<code><img height="22" src="https://raw.githubusercontent.com/doggerwork/doggerwork/master/assets/vue.png"></code>
