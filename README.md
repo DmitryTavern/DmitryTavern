@@ -1,6 +1,6 @@
 # **Hi, I'm Dmitry**
 
-<img src="https://github.com/DmitryTavern/DmitryTavern/blob/master/images/banner.svg?raw=true" alt="Banner"/>
+<img src="https://github.com/DmitryTavern/DmitryTavern/blob/master/images/banner.png?raw=true" alt="Banner"/>
 
 I am 18 years old and I like to make up websites, develop project architecture, solve web puzzles and learn new things.
 
