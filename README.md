@@ -8,9 +8,11 @@ In my free time, I learn new things to develop websites more efficiently and wri
 
 **My Projects:**
 
-1. [@dtavern-website-builder](https://github.com/DmitryTavern/dtavern-website-builder) - my website builder with own laravel artisan
-2. [@dtavern-website-components](https://github.com/DmitryTavern/dtavern-website-components) - my components for website builder
-3. In process...
+1. [website-builder](https://github.com/DmitryTavern/website-builder) - website builder with own laravel artisan helper
+1. [website-components](https://github.com/DmitryTavern/website-components) - components for website builder
+1. [rollup-builder](https://github.com/DmitryTavern/rollup-builder) - js module builder on rollup
+1. [@dtavern-options](https://github.com/DmitryTavern/dtavern-options) - js options parser. Type cheking, default setter, validation and other
+1. In process...
 
 **Languages:**
 
@@ -38,12 +40,19 @@ In my free time, I learn new things to develop websites more efficiently and wri
 <img src="https://img.shields.io/badge/-Gulp-000000?style=flat&logo=gulp&logoColor=D54949" />&nbsp;
 <img src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack&logoColor=3074D7" />&nbsp;
 <img src="https://img.shields.io/badge/-Rollup-000000?style=flat&logo=rollup.js&logoColor=F33132" />&nbsp;
+<img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=C63D14" />&nbsp;
+<img src="https://img.shields.io/badge/-Prettier-000000?style=flat&logo=prettier" />&nbsp;
+<img src="https://img.shields.io/badge/-ESLint-000000?style=flat&logo=eslint&logoColor=4B32C3" />&nbsp;
 <img src="https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC" />&nbsp;
 <img src="https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm&logoColor=00CDD7" />&nbsp;
 <img src="https://img.shields.io/badge/-Phpstorm-000000?style=flat&logo=phpstorm&logoColor=9850F5" />&nbsp;
 <img src="https://img.shields.io/badge/-Sublime%20Text-000000?style=flat&logo=sublimetext&logoColor=FF9800" />&nbsp;
 <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=F24E1E" />&nbsp;
+<img src="https://img.shields.io/badge/-Sketch-000000?style=flat&logo=sketch&logoColor=FFC100" />&nbsp;
 
 **Contacts:**
 
+<a href="https://www.codewars.com/users/Dmitry%20Tavern" target="_blank">
+<img src="https://img.shields.io/badge/Codewars-000000?logo=codewars&logoColor=B1361E"/>
+</a>
 <img src="https://img.shields.io/badge/dogger.work@gmail.com-000000?logo=Gmail&labelColor=black"/>
