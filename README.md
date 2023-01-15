@@ -60,6 +60,9 @@ In my free time, I learn new things to develop websites more efficiently and wri
 
 **Contacts:**
 
+<a href="https://www.instagram.com/dmitrytavern/" target="_blank">
+<img src="https://img.shields.io/badge/dmitrytavern-262626?logo=Instagram&labelColor=262626"/>
+</a>
 <a href="https://www.codewars.com/users/Dmitry%20Tavern" target="_blank">
 <img src="https://img.shields.io/badge/Codewars-262626?logo=codewars&logoColor=B1361E"/>
 </a>
