@@ -8,14 +8,19 @@ In my free time, I learn new things to develop websites more efficiently and wri
 
 **My Projects:**
 
-1. [Website builder](https://github.com/DmitryTavern/website-builder) - website builder with own laravel artisan helper
-1. [Website components](https://github.com/DmitryTavern/website-components) - components for website builder
+1. [Website builder](https://github.com/dmitrytavern/website-builder) - website builder with own laravel artisan helper
+
+1. [Website components](https://github.com/dmitrytavern/website-components) - components for website builder
+
 1. [2048 Game](https://github.com/dmitrytavern/dtavern-game-2048) - simple 2048 game in your terminal on C++
+
 1. In process...
 
 **My Packages:**
-1. [@dtavern-options](https://github.com/DmitryTavern/dtavern-options) - js options parser. Type cheking, default setter, validation and other
-1. @dtavern-server-migrate - in process...
+
+1. [@dmitrytavern/object-parser](https://github.com/dmitrytavern/dtavern-options) - A simple and easy way to check and parse an javascript object without pain. Type cheking, default setter, validation and other.
+
+1. @dmitrytavern/migrate - in process...
 
 **Languages:**
 
