@@ -8,7 +8,7 @@ In my free time, I learn new things to develop websites more efficiently and wri
 
 **My Packages:**
 
-1. [@dmitrytavern/object-parser](https://github.com/dmitrytavern/dtavern-options) - A simple and easy way to check and parse an javascript object without pain. Type cheking, default setter, validation and other.
+1. [@dmitrytavern/object-parser](https://github.com/dmitrytavern/object-parser) - A simple and easy way to check and parse an javascript object without pain. Type cheking, default setter, validation and other.
 
 **My Projects:**
 
