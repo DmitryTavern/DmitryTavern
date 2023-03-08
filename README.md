@@ -6,21 +6,19 @@ I am 18 years old and I like to make up websites, develop project architecture, 
 
 In my free time, I learn new things to develop websites more efficiently and write programs that make life easier.
 
+**My Packages:**
+
+1. [@dmitrytavern/object-parser](https://github.com/dmitrytavern/dtavern-options) - A simple and easy way to check and parse an javascript object without pain. Type cheking, default setter, validation and other.
+
 **My Projects:**
+
+1. [2048 Game](https://github.com/dmitrytavern/2048) - simple 2048 game in your terminal on C++
 
 1. [Website builder](https://github.com/dmitrytavern/website-builder) - website builder with own laravel artisan helper
 
 1. [Website components](https://github.com/dmitrytavern/website-components) - components for website builder
 
-1. [2048 Game](https://github.com/dmitrytavern/dtavern-game-2048) - simple 2048 game in your terminal on C++
-
 1. In process...
-
-**My Packages:**
-
-1. [@dmitrytavern/object-parser](https://github.com/dmitrytavern/dtavern-options) - A simple and easy way to check and parse an javascript object without pain. Type cheking, default setter, validation and other.
-
-1. @dmitrytavern/migrate - in process...
 
 **Languages:**
 
