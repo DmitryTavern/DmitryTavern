@@ -4,15 +4,15 @@ My name is Dmitry, a software engineer, I'm 18 years old, and I'm a technical un
 
 Я Дмитро, інженер програмного забезпечення, мені 18 років, і я студент технічного університету за спеціальністю "Інформаційні технології". Моя основна сфера - професійна веб-розробка з використанням сучасного стеку технологій, включаючи React. Також займаюся версткою нових сайтів, виправленням проблем на вже існуючих та створенням бібліотек/утиліт, які значно полегшують подальшу розробку.
 
+**My Projects:**
+
+1. [2048 Game](https://github.com/dmitrytavern/2048) - simple 2048 game in your terminal on C++. No external dependencies, cross-platform and testing.
+
 **My Packages:**
 
 1. [@dmitrytavern/object-parser](https://github.com/dmitrytavern/object-parser) - a simple and easy way to check and parse an javascript object without pain. Type cheking, default setter, validation and other.
 
 1. [@dmitrytavern/website-screenshoter](https://github.com/dmitrytavern/website-screenshoter) - makes web screenshots and mobile emulations from the command line.
-
-**My Projects:**
-
-1. [2048 Game](https://github.com/dmitrytavern/2048) - simple 2048 game in your terminal on C++. No external dependencies, cross-platform and testing.
 
 **My Makeups:** (public)
 
