@@ -16,9 +16,13 @@ My name is Dmitry, a software engineer, I'm 18 years old, and I'm a technical un
 
 **My Makeups:** (public)
 
+1. [Semantic Core](https://github.com/dmitrytavern/website-makeup-semantic-core) - makeup landing page of medium complexity, aimed at SEO promotion.
+
 1. [Didit](https://github.com/dmitrytavern/website-makeup-didit) - makeup of a four-page website to find freelancers.
 
 1. [BeinUA](https://github.com/dmitrytavern/website-makeup-beinua) - makeup of a online clothing store.
+
+1. [Hypelitix](https://github.com/dmitrytavern/website-makeup-hypelitix) - makeup of an advertising website for analysing Instagram account data.
 
 1. [Feel Design](https://github.com/dmitrytavern/website-makeup-feel-design) - makeup of a portfolio for an interior designer.
 
